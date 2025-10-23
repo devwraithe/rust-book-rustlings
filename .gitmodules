@@ -1,9 +1,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = https://github.com/devwraithe/rustlings.git
-[submodule "guessing-game"]
-	path = guessing-game
-	url = https://github.com/devwraithe/rusty-guess.git
 [submodule "rust-book/guessing-game"]
 	path = rust-book/guessing-game
 	url = https://github.com/devwraithe/rusty-guess.git
