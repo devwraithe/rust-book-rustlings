@@ -21,7 +21,7 @@ This repo tracks my journey learning Rust fundamentals including ownership, borr
 ### Running Projects
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rust-book-rustlings.git
+git clone https://github.com/devwraithe/rust-book-rustlings.git
 cd rust-book-rustlings
 
 # Run a Rust Book project
